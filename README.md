@@ -1,12 +1,6 @@
 # fastText
 
-[fastText](https://fasttext.cc/) is a library for efficient learning of word representations and sentence classification.
-
-## FAQ / Cheatsheet
-
-You can find [answers to frequently asked questions](https://fasttext.cc/docs/en/faqs.html#content) on our [website](https://fasttext.cc/).
-
-We also provide a [cheatsheet](https://fasttext.cc/docs/en/cheatsheet.html#content) full of useful one-liners.
+fastText is a library for efficient learning of word representations and sentence classification.
 
 ## Requirements
 
